@@ -1,2 +1,3 @@
 # kead_scoring_17Dec
-lead_scoring_akash
+
+this project is about ----- lead_scoring_akash
